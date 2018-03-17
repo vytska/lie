@@ -545,39 +545,39 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #eff5f5;
 }
 
-/* About Us Section
+/* Veikla Section
 --------------------------------*/
-#about {
+#veikla {
   padding: 60px 0;
 }
 
-#about .about-img {
+#veikla .about-img {
   height: 510px;
   overflow: hidden;
 }
 
-#about .about-img img {
+#veikla .about-img img {
   margin-left: -15px;
   max-width: 100%;
 }
 
 @media (max-width: 768px) {
-  #about .about-img {
+  #veikla .about-img {
     height: auto;
   }
-  #about .about-img img {
+  #veikla .about-img img {
     margin-left: 0;
     padding-bottom: 30px;
   }
 }
 
-#about .content .h2 {
+#veikla .content .h2 {
   color: #333;
   font-weight: 300;
   font-size: 24px;
 }
 
-#about .content h3 {
+#veikla .content h3 {
   color: #777;
   font-weight: 300;
   font-size: 18px;
@@ -585,26 +585,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-style: italic;
 }
 
-#about .content p {
+#veikla .content p {
   line-height: 26px;
 }
 
-#about .content p:last-child {
+#veikla .content p:last-child {
   margin-bottom: 0;
 }
 
-#about .content i {
+#veikla .content i {
   font-size: 20px;
   padding-right: 4px;
   color: #1dc8cd;
 }
 
-#about .content ul {
+#veikla .content ul {
   list-style: none;
   padding: 0;
 }
 
-#about .content ul li {
+#veikla .content ul li {
   padding-bottom: 10px;
 }
 
@@ -676,18 +676,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Product Advanced Featuress Section
 --------------------------------*/
-#advanced-features .features-row {
+#klientai .features-row {
   padding: 60px 0 30px 0;
   margin-bottom: 40px;
 }
 
-#advanced-features h2 {
+#klientai h2 {
   font-size: 26px;
   font-weight: 700;
   color: #000;
 }
 
-#advanced-features h3 {
+#klientai h3 {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -695,13 +695,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #999;
 }
 
-#advanced-features p {
+#klientai p {
   line-height: 24px;
   color: #777;
   margin-bottom: 30px;
 }
 
-#advanced-features i {
+#klientai i {
   color: #666666;
   font-size: 64px;
   transition: 0.5s;
@@ -710,7 +710,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
 }
 
-#advanced-features i:before {
+#klientai i:before {
   background: #1dc8cd;
   background: linear-gradient(45deg, #1dc8cd 0%, #55fabe 100%);
   background-clip: border-box;
@@ -718,26 +718,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-text-fill-color: transparent;
 }
 
-#advanced-features .advanced-feature-img-right {
+#klientai .advanced-feature-img-right {
   max-width: 100%;
   float: right;
   padding: 0 0 30px 30px;
 }
 
-#advanced-features .advanced-feature-img-left {
+#klientai .advanced-feature-img-left {
   max-width: 100%;
   float: left;
   padding: 0 30px 30px 0;
 }
 
 @media (max-width: 768px) {
-  #advanced-features .advanced-feature-img-right, #advanced-features .advanced-feature-img-left {
+  #klientai .advanced-feature-img-right, #klientai .advanced-feature-img-left {
     max-width: 50%;
   }
 }
 
 @media (max-width: 767px) {
-  #advanced-features .advanced-feature-img-right, #advanced-features .advanced-feature-img-left {
+  #klientai .advanced-feature-img-right, #klientai .advanced-feature-img-left {
     max-width: 100%;
     float: none;
     padding: 0 0 30px 0;
@@ -746,17 +746,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Product Advanced Featuress Section
 --------------------------------*/
-#advanced-features2 .features-row {
+#kainos .features-row {
   padding: 60px 0 30px 0;
 }
 
-#advanced-features2 h2 {
+#kainos h2 {
   font-size: 26px;
   font-weight: 700;
   color: #000;
 }
 
-#advanced-features2 h3 {
+#kainos h3 {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
@@ -764,13 +764,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #999;
 }
 
-#advanced-features2 p {
+#kainos p {
   line-height: 24px;
   color: #777;
   margin-bottom: 30px;
 }
 
-#advanced-features2 i {
+#kainos i {
   color: #666666;
   font-size: 64px;
   transition: 0.5s;
@@ -779,7 +779,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 1;
 }
 
-#advanced-features2 i:before {
+#kainos i:before {
   background: #1dc8cd;
   background: linear-gradient(45deg, #1dc8cd 0%, #55fabe 100%);
   background-clip: border-box;
@@ -787,26 +787,26 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-text-fill-color: transparent;
 }
 
-#advanced-features2 .advanced-feature-img-right {
+#kainos .advanced-feature-img-right {
   max-width: 100%;
   float: right;
   padding: 0 0 30px 30px;
 }
 
-#advanced-features2 .advanced-feature-img-left {
+#kainos .advanced-feature-img-left {
   max-width: 100%;
   float: left;
   padding: 0 30px 30px 0;
 }
 
 @media (max-width: 768px) {
-  #advanced-features2 .advanced-feature-img-right, #advanced-features2 .advanced-feature-img-left {
+  #kainos .advanced-feature-img-right, #kainos .advanced-feature-img-left {
     max-width: 50%;
   }
 }
 
 @media (max-width: 767px) {
-  #advanced-features2 .advanced-feature-img-right, #advanced-features2 .advanced-feature-img-left {
+  #kainos .advanced-feature-img-right, #kainos .advanced-feature-img-left {
     max-width: 100%;
     float: none;
     padding: 0 0 30px 0;
@@ -860,11 +860,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* More Features Section
 --------------------------------*/
-#more-features {
+#tyrimu-temos {
   padding: 60px 0 60px 0;
 }
 
-#more-features .box {
+#tyrimu-temos .box {
   padding: 40px;
   margin-bottom: 30px;
   box-shadow: 0px 0px 30px rgba(73, 78, 92, 0.15);
@@ -872,18 +872,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.4s;
 }
 
-#more-features .icon {
+#tyrimu-temos .icon {
   float: left;
 }
 
-#more-features .icon i {
+#tyrimu-temos .icon i {
   color: #666666;
   font-size: 80px;
   transition: 0.5s;
   line-height: 0;
 }
 
-#more-features .icon i:before {
+#tyrimu-temos .icon i:before {
   background: #1dc8cd;
   background: linear-gradient(45deg, #1dc8cd 0%, #55fabe 100%);
   background-clip: border-box;
@@ -891,18 +891,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-text-fill-color: transparent;
 }
 
-#more-features h4 {
+#tyrimu-temos h4 {
   margin-left: 100px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
 }
 
-#more-features h4 a {
+#tyrimu-temos h4 a {
   color: #111;
 }
 
-#more-features p {
+#tyrimu-temos p {
   font-size: 14px;
   margin-left: 100px;
   margin-bottom: 0;
@@ -910,15 +910,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 @media (max-width: 767px) {
-  #more-features .box {
+  #tyrimu-temos .box {
     margin-bottom: 20px;
   }
-  #more-features .icon {
+  #tyrimu-temos .icon {
     float: none;
     text-align: center;
     padding-bottom: 15px;
   }
-  #more-features h4, #more-features p {
+  #tyrimu-temos h4, #tyrimu-temos p {
     margin-left: 0;
     text-align: center;
   }
@@ -1230,7 +1230,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #2382e6;
+  color: #5c96d3;
   float: left;
   line-height: 1;
 }
