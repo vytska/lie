@@ -1187,8 +1187,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   letter-spacing: 3px;
-  text-transform: uppercase;
-  color: #1dc8cd;
+  color: #2382e6;
 }
 
 #contact .contact-about p {
@@ -1200,13 +1199,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .social-links {
   padding-bottom: 20px;
+  margin-top: 54px;
+  margin-left: -5px;
 }
 
 #contact .social-links a {
   font-size: 18px;
   display: inline-block;
   background: #fff;
-  color: #1dc8cd;
+  color: #2382e6;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -1215,12 +1216,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #1dc8cd;
+  border: 1px solid #2382e6;
 }
 
 #contact .social-links a:hover {
   background: #1dc8cd;
-  color: #fff;
+  color: #2382e6;
 }
 
 #contact .info {
@@ -1229,7 +1230,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #1dc8cd;
+  color: #2382e6;
   float: left;
   line-height: 1;
 }
@@ -1394,3 +1395,26 @@ body.mobile-nav-active #mobile-nav-toggle {
     float: left;
     margin-left: 5px;
 }
+
+.info p.normal-padding {
+    padding: 0;
+}
+
+.facebook {
+    margin-left: 6px;
+    margin-top: -5px;
+}
+
+.facebook-link {
+    color: #333333;
+    font-size: 13px;
+    position: absolute;
+    left: 58px;
+    margin-top: 0px;
+}
+
+.facebook-link:hover {
+    text-decoration: underline;
+    color: #2382e6;
+}
+
